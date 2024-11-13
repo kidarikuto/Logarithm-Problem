@@ -1,5 +1,6 @@
 Logarithm_memory.exe
 Logarithm.exe
+pollardRho.py
 
 PollarRho_const.csv
 PollarRho.csv
@@ -9,3 +10,5 @@ bruteForce.csv
 
 BSGS_cont.csv
 BSGS.csv
+
+trainC.code-workspace
